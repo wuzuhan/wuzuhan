@@ -8,6 +8,8 @@
 
 [CSDN](https://blog.csdn.net/qq_35399548?spm=1000.2115.3001.5343)  [知乎](https://www.zhihu.com/people/wu-zu-yi-26)
 
+<a title="Hits" target="_blank" href="https://github.com/wuzuhan/hits"><img src="https://hits.b3log.org/wuzuhan/hits.svg"></a>
+
 💐
 
 <!--

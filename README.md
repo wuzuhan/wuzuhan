@@ -10,6 +10,8 @@
 
 <a title="Hits" target="_blank" href="https://github.com/wuzuhan/hits"><img src="https://hits.b3log.org/wuzuhan/hits.svg"></a>
 
+[![Browser Stack](favicon32.ico)](https://blog.csdn.net/qq_35399548?type=blog) [![Browser Stack](favicon.ico)](https://www.zhihu.com/people/wu-zu-yi-26) 
+
 💐
 
 <!--

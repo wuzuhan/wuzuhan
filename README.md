@@ -6,11 +6,9 @@
 
 希望在这里和你一起感受编程的美好！
 
-[CSDN](https://blog.csdn.net/qq_35399548?spm=1000.2115.3001.5343)  [知乎](https://www.zhihu.com/people/wu-zu-yi-26)
+[![Browser Stack](favicon32.ico)](https://blog.csdn.net/qq_35399548?spm=1000.2115.3001.5343) [![Browser Stack](favicon.ico)](https://www.zhihu.com/people/wu-zu-yi-26)  [![Browser Stack](jianshu.ico)](https://www.jianshu.com/u/3fe66fadbc26)
 
 <a title="Hits" target="_blank" href="https://github.com/wuzuhan/hits"><img src="https://hits.b3log.org/wuzuhan/hits.svg"></a>
-
-[![Browser Stack](favicon32.ico)](https://blog.csdn.net/qq_35399548?type=blog) [![Browser Stack](favicon.ico)](https://www.zhihu.com/people/wu-zu-yi-26) 
 
 💐
 
